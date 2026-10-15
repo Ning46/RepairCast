@@ -1,0 +1,4 @@
+# Competition data is not redistributed; download it from the competition page
+*.csv
+.ipynb_checkpoints/
+__pycache__/
