@@ -51,7 +51,7 @@ cd RepairCast
 pip install -r requirements.txt
 ```
 
-The competition data is **not included** in this repository. Download `train.csv` and `test.csv` from the competition page, put them next to the notebook, then:
+The competition data is **not included** in this repository. Competition page is not there, which is a private competition organized by company:
 
 ```bash
 jupyter notebook crispr_repair_prediction.ipynb
